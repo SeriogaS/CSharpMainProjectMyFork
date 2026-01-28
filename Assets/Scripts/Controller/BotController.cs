@@ -9,7 +9,7 @@ using Utilities;
 //hello
 //How are you?
 //i'm fine
-//It is Fedor
+//Ok
 namespace Controller
 {
     public class BotController
@@ -75,3 +75,4 @@ namespace Controller
         }
     }
 }
+
